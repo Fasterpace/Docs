@@ -47,6 +47,19 @@ Copy the new doc stuff we created earlier
 
 .. image:: read-the-docs/_static/0220-.png
 
+commit
+
+.. image:: read-the-docs/_static/0221-.png
+
+pull request
+
+.. image:: read-the-docs/_static/0222-.png
+
+merge
+
+.. image:: read-the-docs/_static/0223-.png
+
+
 Add the Project to Readthedocs
 ------------------------------
 
