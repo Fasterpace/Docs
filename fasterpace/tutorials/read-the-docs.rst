@@ -73,8 +73,8 @@ connect readthedocs to github account https://readthedocs.org/accounts/social/co
 
 import doc into readthedocs.org
 
-.. image:: read-the-docs/_static/0250-.png
-.. image:: read-the-docs/_static/0260-.png
+.. image:: read-the-docs/_static/0300-.png
+.. image:: read-the-docs/_static/0310-.png
 
 remember to set the location of the config file: fasterpace/conf.cy
 
