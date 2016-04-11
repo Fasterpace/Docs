@@ -8,7 +8,7 @@
 Fasterpace Documentation
 ========================
 
-.. attention:: Fasterpace: We make software faster. Read `more <http://www.fasterpace.com/>`_.
+.. attention:: Fasterpace: We make software fast. Read `more <http://www.fasterpace.com/>`_.
 
 .. include:: ../common/stub-overview.txt
 
