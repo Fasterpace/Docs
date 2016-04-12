@@ -19,30 +19,29 @@ Install Python
 --------------
 https://www.python.org/downloads/windows/
 
-.. image:: read-the-docs-tool-setup\_static\1.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-1.png
 
 
-
-.. image:: read-the-docs-tool-setup\_static\2.png
-
-
-.. image:: read-the-docs-tool-setup\_static\3.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-2.png
 
 
-.. image:: read-the-docs-tool-setup\_static\4.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-3.png
 
 
-.. image:: read-the-docs-tool-setup\_static\5.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-4.png
+
+
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-5.png
 
 
 At command prompt, type “python” and Enter. The version will display.
-.. image:: read-the-docs-tool-setup\_static\6.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-6.png
 
 
 EXPERIMENTAL: Upgrade pip
 C:\> python -m pip install --upgrade pip
 
-.. image:: read-the-docs-tool-setup\_static\7.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-7.png
 
 
 Install sphinx with pip
@@ -54,8 +53,16 @@ After installation, type sphinx-build -h on the command prompt. If everything wo
 Install auto build
 C:\> pip install sphinx sphinx-autobuild
 
+Install the theme file for read the docs
+D:\>pip install sphinx_rtd_theme
+
+D:\>pip install sphinxcontrib-httpdomain
+D:\>pip install sphinxcontrib-dotnetdomain
+
+
 Download and install PyCharm editor.
 https://www.jetbrains.com/pycharm/
+
 
 
 Create your first project
@@ -169,13 +176,13 @@ Error: Config directory doesn't contain a conf.py file.
 
 Open your browser to http://127.0.0.1:8000
 
-.. image:: read-the-docs-tool-setup\_static\8.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-8.png
 
 
 
 Open index.rst using PyCharm and change description.
 
-.. image:: read-the-docs-tool-setup\_static\9.png
+.. image:: read-the-docs-tool-setup/_static/read-the-docs-tool-setup-9.png
 
 
 Save the file and look at the browser:
